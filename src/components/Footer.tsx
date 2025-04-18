@@ -113,7 +113,7 @@ export function Footer() {
         {/* Desktop View */}
         <div className="hidden md:grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 pb-8">
           <div className="space-y-4">
-            <img src="/src/images/logo-white.svg" alt="Logo"/>
+            <img src="https://i.ibb.co/kzfrNnn/logo-white.png" alt="Logo"/>
             <p className="text-gray-400 text-sm leading-relaxed">
               Профессиональный кузовной ремонт и покраска автомобилей с 1999 года.
             </p>

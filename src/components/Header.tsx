@@ -157,7 +157,7 @@ export function Header() {
         <div className="container mx-auto px-4 md:px-6 py-3 relative">
           <div className="flex justify-between items-center">
             <div className="flex items-center gap-3 flex-shrink-0">
-              <Link to="/"><img src="https://i.ibb.co/sd4szc0M/Group-2.png" alt="Logo"/></Link>
+              <Link to="/"><img src="/src/images/logo-black.png" alt="Logo"/></Link>
               <span className="hidden md:block text-sm text-gray-600 whitespace-nowrap overflow-hidden text-ellipsis">
                 Кузовной ремонт и покраска <br /> автомобилей в Минске
               </span>
