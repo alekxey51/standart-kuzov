@@ -50,13 +50,13 @@
   "SOCIAL_LINKS": [
     {
       "name": "Telegram",
-      "url": "https://t.me/+375298278000",
-      "icon": "telegram.svg"
+      "url": "https://telegram.org/",
+      "icon": "https://i.ibb.co/tTPsN3BW/telegram.png"
     },
     {
       "name": "Viber",
       "url": "https://www.viber.com/ru/",
-      "icon": "viber.svg"
+      "icon": "https://i.ibb.co/3YR2gTqK/viber.png"
     },
     {
       "name": "Instagram",
@@ -66,17 +66,17 @@
     {
     "name": "TikTok",
     "url": "https://www.tiktok.com/",
-    "icon": "tiktok.svg"
+    "icon": "https://i.ibb.co/4R1CHqyV/tiktok.png"
     },
     {
     "name": "YouTube",
     "url": "https://www.youtube.com/",
-    "icon": "youtube.svg"
+    "icon": "https://i.ibb.co/2Ym7cBtP/youtube.png"
     },
     {
     "name": "VK",
-    "url": "https://www.vk.com/",
-    "icon": "vk.svg"
+    "url": "https://vk.com/",
+    "icon": "https://i.ibb.co/gL29WNZ7/vk.png"
     }
   ]
 }

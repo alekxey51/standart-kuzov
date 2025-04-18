@@ -52,7 +52,13 @@ export function Footer() {
         className="text-gray-400 hover:text-blue-400 transition-colors"
         aria-label={name}
       >
-        <img src={icon}/>
+        <div
+          className="w-5 h-5 bg-current h-[40px]" // Цвет берется из text-*
+          style={{
+            mask: `url(${icon}) no-repeat center / contain`,
+            WebkitMask: `url(${icon}) no-repeat center / contain`,
+          }}
+        />
       </a>
             ))}
           </div>
