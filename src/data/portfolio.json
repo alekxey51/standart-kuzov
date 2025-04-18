@@ -1,0 +1,427 @@
+{
+  "works": [
+    {
+      "id": 1,
+      "title": "Кузовной ремонт BMW X5 после ДТП в Минске | Восстановление геометрии",
+      "category": "Кузовной ремонт",
+      "description": "Профессиональный кузовной ремонт BMW X5 после ДТП в Минске. Полное восстановление геометрии кузова на стапеле, замена поврежденных деталей и покраска в оригинальный цвет. Гарантия качества работ 12 месяцев.",
+      "before": "https://images.unsplash.com/photo-1506610654-064fbba4780c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "after": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&q=80&w=800",
+            "gallery": [
+        "https://images.unsplash.com/photo-1506610654-064fbba4780c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1494972308805-463bc619d34e?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1494972308805-463bc619d34e?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&q=80&w=800"
+      ],
+      "details": {
+        "time": "5 дней",
+        "price": "1200 BYN",
+        "features": [
+          "Восстановление геометрии кузова",
+          "Замена крыла, капота и бампера",
+          "Покраска с подбором цвета",
+          "Гарантия 12 месяцев"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "title": "Покраска Mercedes-Benz E-Class в Минске | Полная перекраска автомобиля",
+      "category": "Покраска",
+      "description": "Качественная покраска Mercedes-Benz E-Class в Минске. Используем профессиональные материалы и точный подбор цвета по VIN. Гарантия на покрасочные работы 2 года.",
+      "before": "https://images.unsplash.com/photo-1591439657848-9f4b9ce436b9?auto=format&fit=crop&q=80&w=800",
+      "after": "https://images.unsplash.com/photo-1542362567-b07e54358753?auto=format&fit=crop&q=80&w=800",
+      "details": {
+        "time": "7 дней",
+        "price": "2500 BYN",
+        "features": [
+          "Полная подготовка поверхности",
+          "Нанесение 3 слоев краски",
+          "Защитное лакирование",
+          "Гарантия 24 месяца"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "title": "Полировка кузова Audi A6 в Минске | Удаление царапин и восстановление блеска",
+      "category": "Полировка",
+      "description": "Профессиональная полировка Audi A6 в Минске. Удаление царапин, восстановление блеска и нанесение защитного покрытия. Вернем вашему авто идеальный вид за 1 день.",
+      "before": "https://images.unsplash.com/photo-1600861195091-690c92f1d2cc?auto=format&fit=crop&q=80&w=800",
+      "after": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?auto=format&fit=crop&q=80&w=800",
+      "details": {
+        "time": "1 день",
+        "price": "450 BYN",
+        "features": [
+          "Трехэтапная полировка",
+          "Удаление глубоких царапин",
+          "Нанесение керамики",
+          "Защита на 6 месяцев"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "title": "Антикоррозийная обработка Toyota Camry в Минске | Защита кузова от ржавчины",
+      "category": "Антикоррозийная обработка",
+      "description": "Комплексная антикоррозийная обработка Toyota Camry в Минске. Защита днища, арок и скрытых полостей от коррозии. Гарантия 3 года.",
+      "before": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?auto=format&fit=crop&q=80&w=800",
+      "after": "https://images.unsplash.com/photo-1600861195091-690c92f1d2cc?auto=format&fit=crop&q=80&w=800",
+      "details": {
+        "time": "1 день",
+        "price": "600 BYN",
+        "features": [
+          "Обработка скрытых полостей",
+          "Нанесение антикора",
+          "Защита днища",
+          "Гарантия 36 месяцев"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "title": "Ремонт бампера Volkswagen Golf в Минске | Восстановление пластика",
+      "category": "Кузовной ремонт",
+      "description": "Качественный ремонт бампера Volkswagen Golf в Минске. Устранение трещин, восстановление формы и покраска в оригинальный цвет. Сохранение заводских креплений.",
+      "before": "https://images.unsplash.com/photo-1591769225440-811ad7d6eab2?auto=format&fit=crop&q=80&w=800",
+      "after": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?auto=format&fit=crop&q=80&w=800",
+      "details": {
+        "time": "2 дня",
+        "price": "350 BYN",
+        "features": [
+          "Ремонт трещин",
+          "Шпатлевка и выравнивание",
+          "Покраска бампера",
+          "Гарантия 12 месяцев"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "title": "Локальная покраска двери Ford Focus в Минске | Точечный ремонт ЛКП",
+      "category": "Покраска",
+      "description": "Локальная покраска двери Ford Focus в Минске. Бесшовное совмещение с заводским покрытием. Точный подбор цвета и гарантия на работы.",
+      "before": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?auto=format&fit=crop&q=80&w=800",
+      "after": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?auto=format&fit=crop&q=80&w=800",
+      "details": {
+        "time": "1 день",
+        "price": "300 BYN",
+        "features": [
+          "Подготовка поверхности",
+          "Локальная покраска",
+          "Полировка переходов",
+          "Гарантия 12 месяцев"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "title": "Ремонт крыла Hyundai Tucson в Минске | Выравнивание после удара",
+      "category": "Кузовной ремонт",
+      "description": "Профессиональный ремонт крыла Hyundai Tucson в Минске. Рихтовка, шпатлевка и покраска с гарантией качества. Восстановление первоначального вида.",
+      "before": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?auto=format&fit=crop&q=80&w=800",
+      "after": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?auto=format&fit=crop&q=80&w=800",
+      "details": {
+        "time": "3 дня",
+        "price": "500 BYN",
+        "features": [
+          "Рихтовка повреждений",
+          "Шпатлевка и выравнивание",
+          "Покраска крыла",
+          "Гарантия 12 месяцев"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "title": "Замена лобового стекла Kia Sportage в Минске | С калибровкой датчиков",
+      "category": "Стекла",
+      "description": "Замена лобового стекла Kia Sportage в Минске с калибровкой датчиков. Используем оригинальные стекла и профессиональный герметик. Гарантия на работу.",
+      "before": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?auto=format&fit=crop&q=80&w=800",
+      "after": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?auto=format&fit=crop&q=80&w=800",
+      "details": {
+        "time": "1 день",
+        "price": "700 BYN",
+        "features": [
+          "Оригинальное стекло",
+          "Герметизация",
+          "Калибровка датчиков",
+          "Гарантия 12 месяцев"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "title": "Полировка фар Lexus RX в Минске | Восстановление прозрачности",
+      "category": "Полировка",
+      "description": "Полировка фар Lexus RX в Минске. Удаление помутнений и царапин, нанесение защитного покрытия. Вернем фарам первоначальную прозрачность.",
+      "before": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?auto=format&fit=crop&q=80&w=800",
+      "after": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?auto=format&fit=crop&q=80&w=800",
+      "details": {
+        "time": "2 часа",
+        "price": "150 BYN",
+        "features": [
+          "Шлифовка поверхности",
+          "Полировка фар",
+          "Защитное покрытие",
+          "Гарантия 6 месяцев"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "title": "Ремонт порога Nissan Qashqai в Минске | Восстановление после повреждений",
+      "category": "Кузовной ремонт",
+      "description": "Качественный ремонт порога Nissan Qashqai в Минске. Вытягивание деформаций, антикоррозийная обработка и покраска. Гарантия на работы.",
+      "before": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?auto=format&fit=crop&q=80&w=800",
+      "after": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?auto=format&fit=crop&q=80&w=800",
+      "details": {
+        "time": "4 дня",
+        "price": "650 BYN",
+        "features": [
+          "Вытягивание порога",
+          "Антикоррозийная обработка",
+          "Покраска",
+          "Гарантия 12 месяцев"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "title": "Замена капота Ford Mondeo в Минске | Установка оригинальной детали",
+      "category": "Кузовной ремонт",
+      "description": "Профессиональная замена капота Ford Mondeo в Минске. Установка оригинальной детали с покраской в цвет кузова. Гарантия на работы 2 года.",
+      "before": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?auto=format&fit=crop&q=80&w=800",
+      "after": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?auto=format&fit=crop&q=80&w=800",
+      "details": {
+        "time": "3 дня",
+        "price": "1200 BYN",
+        "features": [
+          "Оригинальный капот",
+          "Подготовка поверхности",
+          "Покраска в цвет кузова",
+          "Настройка замков"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "title": "Полировка кузова Land Rover Discovery в Минске | Восстановление после зимы",
+      "category": "Полировка",
+      "description": "Комплексная полировка Land Rover Discovery в Минске после зимнего сезона. Удаление загрязнений, восстановление блеска и нанесение защитного покрытия.",
+      "before": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?auto=format&fit=crop&q=80&w=800",
+      "after": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?auto=format&fit=crop&q=80&w=800",
+      "details": {
+        "time": "1 день",
+        "price": "700 BYN",
+        "features": [
+          "Мойка и обезжиривание",
+          "Удаление зимних загрязнений",
+          "Восстановительная полировка",
+          "Защитное покрытие"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "title": "Ремонт двери Renault Duster в Минске | Восстановление после удара",
+      "category": "Кузовной ремонт",
+      "description": "Качественный ремонт левой передней двери Renault Duster после ДТП в Минске. Полное восстановление геометрии с сохранением функциональности. Покраска с точным подбором цвета.",
+      "before": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?auto=format&fit=crop&q=80&w=800",
+      "after": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?auto=format&fit=crop&q=80&w=800",
+      "details": {
+        "time": "3 дня",
+        "price": "600 BYN",
+        "features": [
+          "Рихтовка вмятин",
+          "Шпатлевка и выравнивание",
+          "Покраска в цвет кузова",
+          "Гарантия 12 месяцев"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "title": "Полировка кузова Volvo XC60 в Минске | Удаление царапин и защита",
+      "category": "Полировка",
+      "description": "Комплексная полировка Volvo XC60 в Минске с устранением мелких повреждений и нанесением защитного воска. Вернем вашему авто идеальный блеск за 1 день.",
+      "before": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?auto=format&fit=crop&q=80&w=800",
+      "after": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?auto=format&fit=crop&q=80&w=800",
+      "details": {
+        "time": "1 день",
+        "price": "500 BYN",
+        "features": [
+          "Мойка и обезжиривание",
+          "Удаление царапин",
+          "Нанесение защитного воска",
+          "Гарантия 6 месяцев"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "title": "Ремонт крыши Chevrolet Cruze в Минске | Восстановление после повреждений",
+      "category": "Кузовной ремонт",
+      "description": "Качественный ремонт крыши Chevrolet Cruze после падения ветки дерева. Вытягивание вмятин, шпатлевка и полный цикл покраски. Гарантия на работы 2 года.",
+      "before": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?auto=format&fit=crop&q=80&w=800",
+      "after": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?auto=format&fit=crop&q=80&w=800",
+      "details": {
+        "time": "5 дней",
+        "price": "900 BYN",
+        "features": [
+          "Вытягивание деформаций",
+          "Антикоррозийная обработка",
+          "Покраска крыши",
+          "Гарантия 24 месяца"
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "title": "Покраска зеркал Volkswagen Tiguan в Минске | Восстановление ЛКП",
+      "category": "Покраска",
+      "description": "Профессиональная покраска корпусов зеркал Volkswagen Tiguan в Минске. Точный подбор цвета, подготовка поверхности и нанесение защитного лака.",
+      "before": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?auto=format&fit=crop&q=80&w=800",
+      "after": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?auto=format&fit=crop&q=80&w=800",
+      "details": {
+        "time": "1 день",
+        "price": "250 BYN",
+        "features": [
+          "Очистка и обезжиривание",
+          "Покраска в цвет кузова",
+          "Лакировка",
+          "Гарантия 12 месяцев"
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "title": "Ремонт задней двери Toyota RAV4 в Минске. Восстановление после ДТП",
+      "category": "Кузовной ремонт",
+      "description": "Качественный ремонт задней двери Toyota RAV4 после аварии в Минске. Восстановление геометрии, покраска и настройка механизмов. Гарантия на все работы.",
+      "before": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?auto=format&fit=crop&q=80&w=800",
+      "after": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?auto=format&fit=crop&q=80&w=800",
+      "details": {
+        "time": "4 дня",
+        "price": "750 BYN",
+        "features": [
+          "Рихтовка повреждений",
+          "Шпатлевка и выравнивание",
+          "Покраска двери",
+          "Настройка замков"
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "title": "Антигравийная защита Honda CR-V в Минске | Пленка на капот и крылья",
+      "category": "Защитные покрытия",
+      "description": "Нанесение антигравийной пленки на Honda CR-V в Минске. Защита капота и передних крыльев от камней и сколов. Гарантия на материалы 5 лет.",
+      "before": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?auto=format&fit=crop&q=80&w=800",
+      "after": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?auto=format&fit=crop&q=80&w=800",
+      "details": {
+        "time": "1 день",
+        "price": "800 BYN",
+        "features": [
+          "Очистка поверхности",
+          "Нанесение защитной пленки",
+          "Полировка",
+          "Гарантия 60 месяцев"
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "title": "Ремонт багажника Subaru Forester в Минске | Восстановление после ДТП",
+      "category": "Кузовной ремонт",
+      "description": "Профессиональный ремонт багажника Subaru Forester после аварии в Минске. Восстановление геометрии, покраска и настройка замков. Гарантия 2 года.",
+      "before": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?auto=format&fit=crop&q=80&w=800",
+      "after": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?auto=format&fit=crop&q=80&w=800",
+      "details": {
+        "time": "4 дня",
+        "price": "850 BYN",
+        "features": [
+          "Вытягивание деформаций",
+          "Шпатлевка и выравнивание",
+          "Покраска багажника",
+          "Настройка механизмов"
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "title": "Полировка стекол Mitsubishi Outlander в Минске | Удаление царапин",
+      "category": "Полировка",
+      "description": "Профессиональная полировка стекол Mitsubishi Outlander в Минске. Удаление царапин и нанесение гидрофобного покрытия. Улучшение видимости в дождь.",
+      "before": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?auto=format&fit=crop&q=80&w=800",
+      "after": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?auto=format&fit=crop&q=80&w=800",
+      "details": {
+        "time": "1 день",
+        "price": "400 BYN",
+        "features": [
+          "Полировка лобового стекла",
+          "Удаление мелких царапин",
+          "Гидрофобное покрытие",
+          "Гарантия 6 месяцев"
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "title": "Ремонт переднего бампера Peugeot 3008 в Минске | Восстановление пластика",
+      "category": "Кузовной ремонт",
+      "description": "Качественный ремонт переднего бампера Peugeot 3008 в Минске. Устранение трещин, выравнивание поверхности и покраска в оригинальный цвет.",
+      "before": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?auto=format&fit=crop&q=80&w=800",
+      "after": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?auto=format&fit=crop&q=80&w=800",
+      "details": {
+        "time": "2 дня",
+        "price": "450 BYN",
+        "features": [
+          "Ремонт трещин",
+          "Шпатлевка пластика",
+          "Покраска бампера",
+          "Гарантия 12 месяцев"
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "title": "Покраска дисков Citroen C4 в Минске | Восстановление литых дисков",
+      "category": "Покраска",
+      "description": "Профессиональная покраска литых дисков Citroen C4 в Минске. Очистка, грунтовка и нанесение прочного лакокрасочного покрытия. Гарантия 1 год.",
+      "before": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?auto=format&fit=crop&q=80&w=800",
+      "after": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?auto=format&fit=crop&q=80&w=800",
+      "details": {
+        "time": "2 дня",
+        "price": "600 BYN",
+        "features": [
+          "Очистка и обезжиривание",
+          "Грунтовка поверхности",
+          "Покраска дисков",
+          "Нанесение лака"
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "title": "Ремонт порога Opel Astra в Минске | Устранение коррозии",
+      "category": "Кузовной ремонт",
+      "description": "Качественный ремонт правого порога Opel Astra в Минске. Удаление ржавчины, замена поврежденных участков и антикоррозийная обработка. Гарантия 3 года.",
+      "before": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?auto=format&fit=crop&q=80&w=800",
+      "after": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?auto=format&fit=crop&q=80&w=800",
+      "details": {
+        "time": "5 дней",
+        "price": "950 BYN",
+        "features": [
+          "Удаление коррозии",
+          "Замена металлических элементов",
+          "Антикоррозийная обработка",
+          "Покраска порога"
+        ]
+      }
+    }
+  ]
+}

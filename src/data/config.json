@@ -1,0 +1,82 @@
+{
+  "COMPANY_INFO": {
+    "companyName": "СтандартКузов",
+    "brieflyName": "ЧСУП «СтандартКузов»",
+    "legalName": "Частное сервисное унитарное предприятие «СтандартКузов»",
+    "siteUrl": "https://standartkuzov.by",
+    "ynp": "693341647",
+    "okpo": "-",
+    "legalAddress": "223043, Минский район, д. Цнянка, ул. Спортивная, д 8Б, каб. 9",
+    "postalAddress": "223043, Минский район, д. Цнянка, ул. Спортивная, д 8Б, каб. 9",
+    "director": "Мозоль Антон Николаевич",
+    "description": "Кузовной ремонт и покраска авто в Минске",
+    "brieflyNameBank": "ЗАО «МТБанк»",
+    "legalNameBank": "Закрытое акционерное общество «МТБанк»",
+    "rCheck": "BY49MTBK30120001093300129460 (BYN)",
+    "bik": "-",
+    "addressBank": "220007, г. Минск, ул. Толстого, 10"
+  },
+  "CONTACT_INFO": {
+    "phones": [
+      { "number": "+375 (29) 327-80-00", "provider": "А1" },
+      { "number": "+375 (33) 327-80-00", "provider": "МТС" }
+    ],
+    "email": "standartkuzov@yandex.ru",
+    "address": "г. Минск, ул. Автомобилистов 2Б",
+    "addressNote": "(Микрорайон Северный Берег)",
+    "workHours": {
+      "weekdays": "Пн-Пт: 9:00–17:00",
+      "weekends": "Сб, Вс: выходной"
+    },
+    "coordinates": {
+      "lat": "53.963124",
+      "lng": "27.543380"
+    }
+  },
+"NAVIGATION_ITEMS": [
+  { "name": "Услуги", "path": "/services", "subItems": [
+      { "name": "Кузовной ремонт", "path": "/services/web-development" },
+      { "name": "Покраска автомобиля", "path": "/services/mobile-apps" },
+      { "name": "Стапельные работы", "path": "/services/seo" },
+    { "name": "Ремонт пластиковых деталей", "path": "/services/web-development" },
+      { "name": "Сварочные работы", "path": "/services/mobile-apps" }
+    ]
+  },
+  { "name": "Портфолио", "path": "/portfolio" },
+  { "name": "Отзывы", "path": "/reviews" },
+  { "name": "О компании", "path": "/about" },
+  { "name": "Контакты", "path": "/contacts" }
+],
+  "SOCIAL_LINKS": [
+    {
+      "name": "Telegram",
+      "url": "https://t.me/+375298278000",
+      "icon": "telegram.svg"
+    },
+    {
+      "name": "Viber",
+      "url": "https://www.viber.com/ru/",
+      "icon": "viber.svg"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/",
+      "icon": "instagram.svg"
+    },
+    {
+    "name": "TikTok",
+    "url": "https://www.tiktok.com/",
+    "icon": "tiktok.svg"
+    },
+    {
+    "name": "YouTube",
+    "url": "https://www.youtube.com/",
+    "icon": "youtube.svg"
+    },
+    {
+    "name": "VK",
+    "url": "https://www.vk.com/",
+    "icon": "vk.svg"
+    }
+  ]
+}

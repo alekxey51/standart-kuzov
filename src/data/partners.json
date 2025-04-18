@@ -1,0 +1,52 @@
+{
+  "partners": [
+    {
+      "name": "BMW",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/1200px-BMW.svg.png"
+    },
+    {
+      "name": "Mercedes-Benz",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Mercedes-Logo.svg/1200px-Mercedes-Logo.svg.png"
+    },
+    {
+      "name": "Audi",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Audi-Logo_2016.svg/1200px-Audi-Logo_2016.svg.png"
+    },
+    {
+      "name": "Toyota",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Toyota_carlogo.svg/1200px-Toyota_carlogo.svg.png"
+    },
+    {
+      "name": "Volkswagen",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Volkswagen_logo_2019.svg/1200px-Volkswagen_logo_2019.svg.png"
+    },
+    {
+      "name": "Honda",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Honda_Logo.svg/1200px-Honda_Logo.svg.png"
+    },
+    {
+          "name": "BMW",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/1200px-BMW.svg.png"
+    },
+    {
+      "name": "Mercedes-Benz",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Mercedes-Logo.svg/1200px-Mercedes-Logo.svg.png"
+    },
+    {
+      "name": "Audi",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Audi-Logo_2016.svg/1200px-Audi-Logo_2016.svg.png"
+    },
+    {
+      "name": "Toyota",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Toyota_carlogo.svg/1200px-Toyota_carlogo.svg.png"
+    },
+    {
+      "name": "Volkswagen",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Volkswagen_logo_2019.svg/1200px-Volkswagen_logo_2019.svg.png"
+    },
+    {
+      "name": "Honda",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Honda_Logo.svg/1200px-Honda_Logo.svg.png"
+    }
+  ]
+}
