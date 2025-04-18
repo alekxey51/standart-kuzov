@@ -52,7 +52,7 @@ export function Footer() {
         className="text-gray-400 hover:text-blue-400 transition-colors"
         aria-label={name}
       >
-        <img src={icon} className="w-5 h-5 bg-current h-[40px]"/>
+        <img src={icon}/>
       </a>
             ))}
           </div>
