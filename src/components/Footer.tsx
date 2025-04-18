@@ -176,8 +176,8 @@ export function Footer() {
         <div
           className="w-5 h-5 bg-current h-[20px]" // Цвет берется из text-*
           style={{
-            mask: `url(/src/images/icon/${icon}) no-repeat center / contain`,
-            WebkitMask: `url(/src/images/icon/${icon}) no-repeat center / contain`,
+            mask: `url(${icon}) no-repeat center / contain`,
+            WebkitMask: `url(${icon}) no-repeat center / contain`,
           }}
         />
       </a>
