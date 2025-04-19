@@ -38,10 +38,10 @@ const logo = "https://i.ibb.co/kzfrNnn/logo-white.png";
         <div className="md:hidden space-y-4 pb-6">
           <div className="space-y-3 mb-4">
           <div
-          className="w-45 h-100 bg-current h-[20px]" // Цвет берется из text-*
+          className="h-[100px]" // Цвет берется из text-*
           style={{
-            mask: `url(${logo}) no-repeat center / contain`,
-            WebkitMask: `url(${logo}) no-repeat center / contain`,
+            mask: `url(${logo}) no-repeat / contain`,
+            WebkitMask: `url(${logo}) no-repeat / contain`,
           }}
         />
             
