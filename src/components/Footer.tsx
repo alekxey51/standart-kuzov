@@ -26,7 +26,7 @@ export function Footer() {
     contacts: false,
     address: false
   });
-const logo = "https://i.ibb.co/kzfrNnn/logo-white.png";
+
   const toggle = (section) => setExpanded(prev => ({ ...prev, [section]: !prev[section] }));
 
   const { CONTACT_INFO, NAVIGATION_ITEMS, SOCIAL_LINKS, COMPANY_INFO } = config;
@@ -37,14 +37,8 @@ const logo = "https://i.ibb.co/kzfrNnn/logo-white.png";
         {/* Mobile View */}
         <div className="md:hidden space-y-4 pb-6">
           <div className="space-y-3 mb-4">
-          <div
-          className="w-100 h-45 bg-current h-[50px]" // Цвет берется из text-*
-          style={{
-            mask: `url(${logo}) no-repeat center / contain`,
-            WebkitMask: `url(${logo}) no-repeat center / contain`,
-          }}
-        />
             
+            <img src="https://i.ibb.co/kzfrNnn/logo-white.png" alt="Logo"/>
             <p className="text-gray-400 text-sm">
               Профессиональный кузовной ремонт и покраска автомобилей с 1999 года.
             </p>
