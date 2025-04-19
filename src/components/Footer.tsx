@@ -40,8 +40,8 @@ const logo = "https://i.ibb.co/kzfrNnn/logo-white.png";
           <div
           className="h-[100px]" // Цвет берется из text-*
           style={{
-            mask: `url(${logo})`,
-            WebkitMask: `url(${logo})`,
+            mask: `url(${logo}) no-repeat center / contain`,
+            WebkitMask: `url(${logo}) no-repeat center / contain`,
           }}
         />
             
